@@ -1,2 +1,2 @@
 # MHW
-Programs to detect Marine Heatwaves (MHW) in SST timeseries. 
+Programs to detect Marine Heatwaves (MHW) in Sea Surface Temperature datasets. 
